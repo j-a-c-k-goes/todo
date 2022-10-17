@@ -1,0 +1,8 @@
+{
+  "name": "ToDo",
+  "packageManager": "yarn@3.2.4",
+  "type": "module",
+  "dependencies": {
+    "inquirer": "^9.1.3"
+  }
+}
